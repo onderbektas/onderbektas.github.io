@@ -1,6 +1,8 @@
 ## Onder Bektas Page
 
-Deneme Amacliz
+I graduated from the electronics engineering department in Istanbul Technical University, Turkey. In 2016, I received the Msc degree in communication engineering department at the same institute. During this time i worked as a research assistant. Later, I worked as an verification engineer in an electronic company working for the Turkish defense industry. I am currently a data scientist at DenizBank in Istanbul.
+
+
 You can use the [editor on GitHub](https://github.com/onderbektas/onderbektas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 a
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
