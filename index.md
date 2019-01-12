@@ -2,6 +2,9 @@
 
 I graduated from the electronics engineering department in Istanbul Technical University, Turkey. In 2016, I received the Msc degree in communication engineering department at the same institute. During this time i worked as a research assistant. Later, I worked as an verification engineer in an electronic company working for the Turkish defense industry. I am currently a data scientist at DenizBank in Istanbul.
 
+My goal in opening this page is to share my experiences with people across the globe. I strictly believe that knowledge will multiply as we share.
+For this reason, i will put educational files such as some slides, sample codes on my page.
+
 
 You can use the [editor on GitHub](https://github.com/onderbektas/onderbektas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 a
