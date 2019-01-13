@@ -6,7 +6,7 @@ My goal in opening this page is to share my experiences with people across the g
 For this reason, i will put educational files such as some slides, sample codes on my page.
 
 
-You can use the [editor on GitHub](https://github.com/onderbektas/onderbektas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/onderbektas/onderbektas.github.io/edit/master/Probability-1.pdf) to maintain and preview the content for your website in Markdown files.
 a
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
