@@ -1,5 +1,5 @@
 # onderbektas.github.io
-Tutorials and Presentations about data science
+Tutorials, Presentations and samples codes about data science 
 
 
 # About Me 
@@ -27,10 +27,10 @@ My research areas was signal processing when i was a graduate student more speci
  
 # Workshops and Certificates:
 
-1. Essential Python, Doulos, Ankara, Turkey, 2018
-2. Fundamental Yacht and Sailing Racing, Istanbul Sailing Club, Istanbul, Turkey, 2018
-3. Radar Methods and Systems Workshop, RMSW 2016, National Aviation University, Kiev, Ukraine, 2016.
-5. Inverse Problems for Waves,Franco- German Summer School, Ecole Polytechnique Palaiseau, Paris, France, 2015.
-6. Mobbing and Social Intelligence, Istanbul Technical University, Istanbul, Turkey, 2012
+ 1. Essential Python, Doulos, Ankara, Turkey, 2018
+ 2. Fundamental Yacht and Sailing Racing, Istanbul Sailing Club, Istanbul, Turkey, 2018
+ 3. Radar Methods and Systems Workshop, RMSW 2016, National Aviation University, Kiev, Ukraine, 2016.
+ 4. Inverse Problems for Waves,Franco- German Summer School, Ecole Polytechnique Palaiseau, Paris, France, 2015.
+ 5. Mobbing and Social Intelligence, Istanbul Technical University, Istanbul, Turkey, 2012
 
 
