@@ -1,6 +1,8 @@
 # onderbektas.github.io
 Tutorials, Presentations and samples codes about data science 
 
+Probability Theory.
+Sql Queries Equivalent in Python / Pandas and R
 
 # About Me 
 I graduated from the electronics engineering department in Istanbul Technical University in Turkey. In 2016, 
