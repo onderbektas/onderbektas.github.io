@@ -1,7 +1,7 @@
 # onderbektas.github.io
 Tutorials, Presentations and samples codes about data science 
 
-Probability Theory.
+Probability Theory
 Sql Queries Equivalent in Python / Pandas and R
 
 # About Me 
