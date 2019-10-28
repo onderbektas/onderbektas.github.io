@@ -23,6 +23,7 @@ ax.pie(size1, colors=['white','floralwhite','moccasin','orange','orangered','bro
 ax.text(0, -0.1, '70 %', horizontalalignment='center', 
         verticalalignment='center', fontsize=20)
 
+# Show the gauge chart / plot
 ax=plt.gcf()
 ax.gca().add_artist(my_circle)
 
